@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3270ccd3-48e5-42b1-820f-5b3b83d1ac79",
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      { "ingredient": "Brown Sugar", "amount": "1 Cup" },
+      { "ingredient": "White Sugar", "amount": "1/2 Cup" },
+      { "ingredient": "Shortening", "amount": "1 Cup" },
+      { "ingredient": "Eggs", "amount": "2" },
+      { "ingredient": "Flour", "amount": "2 Cups" },
+      { "ingredient": "Baking Soda", "amount": "1 tsp" },
+      { "ingredient": "Salt", "amount": "1/2 tsp" },
+      { "ingredient": "Vanilla", "amount": "1 tsp" },
+      { "ingredient": "Chocolate Chips", "amount": "1 Package" }
+    ],
+    "instructions": "Pre-heat oven to 350 degrees F. Mix all ingredients in a bowl. Scoop rounds of dough onto a greased cookie sheet. Bake for 8 minutes or until golden brown."
+  },
+  {
+    "id": "87302da4-8651-4b21-a51f-ac8e17f66a51",
+    "name": "Peanut Butter Fudge",
+    "ingredients": [
+      { "ingredient": "White Sugar", "amount": "2 Cups" },
+      { "ingredient": "Milk", "amount": "2/3 Cup" },
+      { "ingredient": "Peanut Butter", "amount": "4 Tbsp" },
+      { "ingredient": "Butter", "amount": "2 Tbsp" },
+      { "ingredient": "Vanilla", "amount": "1 tsp" }
+    ],
+    "instructions": "Mix sugar and milk in pan. Cook until soft ball stage. Let cool slightly. Add peanut butter and vanilla. Beat well, pour into dish to cool."
+  }
+]
