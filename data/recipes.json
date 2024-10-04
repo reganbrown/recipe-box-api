@@ -26,5 +26,17 @@
       { "ingredient": "Vanilla", "amount": "1 tsp" }
     ],
     "instructions": "Mix sugar and milk in pan. Cook until soft ball stage. Let cool slightly. Add peanut butter and vanilla. Beat well, pour into dish to cool."
+  },
+  {
+    "id": "d84f9b58-e678-4516-9322-29d8257d4409",
+    "name": "Plum Pudding Sauce",
+    "ingredients": [
+      { "ingredient": "White Sugar", "amount": "10 Tablespoons" },
+      { "ingredient": "Flour", "amount": "4 Tablespoons" },
+      { "ingredient": "Salt", "amount": "1/2 teaspoon" },
+      { "ingredient": "Butter", "amount": "2 Tablespoons" },
+      { "ingredient": "Vanilla", "amount": "to tase" }
+    ],
+    "instructions": "Add ingredients to boiling water and mix"
   }
 ]
